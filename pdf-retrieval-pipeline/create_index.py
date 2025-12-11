@@ -1,5 +1,5 @@
 import pickle
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Milvus
 
 
@@ -14,10 +14,10 @@ def load_chunks():
     try:
         with open('chunks.pkl', 'rb') as f:
             chunks = pickle.load(f)
-        print(f"✓ Loaded {len(chunks)} chunks from step 2")
+        print(f"Loaded {len(chunks)} chunks from step 2")
         return chunks
     except FileNotFoundError:
-        print("❌ chunks.pkl not found. Run step2_chunk_documents.py first!")
+        print("chunks.pkl not found.")
         return []
 
 
@@ -34,12 +34,12 @@ def create_vector_store(chunks):
         model_kwargs={'device': 'cpu'}
     )
     
-    print("✓ Embedding model loaded")
+    print("Embedding model loaded")
     
     # Test embedding
     print("\nTesting embedding model...")
     test_vector = embeddings.embed_query("test")
-    print(f"✓ Embedding dimension: {len(test_vector)}")
+    print(f"Embedding dimension: {len(test_vector)}")
     
     # Connect to Milvus
     print(f"\nConnecting to Milvus at {MILVUS_HOST}:{MILVUS_PORT}...")
@@ -51,7 +51,6 @@ def create_vector_store(chunks):
     
     # Create vector store
     print(f"\nCreating collection '{COLLECTION_NAME}'...")
-    print(f"Indexing {len(chunks)} chunks (this may take several minutes)...")
     
     try:
         vector_db = Milvus.from_documents(
@@ -67,20 +66,16 @@ def create_vector_store(chunks):
         # Verify indexing
         print("\nVerifying index...")
         test_results = vector_db.similarity_search("test query", k=1)
-        print(f"✓ Index working! Retrieved {len(test_results)} result(s)")
+        print(f"Index working! Retrieved {len(test_results)} result(s)")
         
         return vector_db, embeddings
         
     except Exception as e:
-        print(f"\n❌ Error creating index: {e}")
-        print("\nTroubleshooting:")
-        print("  1. Make sure Milvus is running: docker compose ps")
-        print("  2. Check Milvus logs: docker logs milvus-standalone")
+        print(f"\nError creating index: {e}")
         return None, None
 
-# ============================================
+
 # SAVE CONNECTION INFO
-# ============================================
 def save_connection_info():
     """Save connection info for search script"""
     config = {
@@ -90,16 +85,11 @@ def save_connection_info():
     }
     with open('milvus_config.pkl', 'wb') as f:
         pickle.dump(config, f)
-    print("✓ Saved connection info to milvus_config.pkl")
+    print("Saved connection info to milvus_config.pkl")
 
-# ============================================
+
 # MAIN
-# ============================================
-if __name__ == "__main__":
-    print("\n" + "="*70)
-    print("STEP 3: CREATE EMBEDDINGS & INDEX IN MILVUS")
-    print("="*70)
-    
+if __name__ == "__main__": 
     # Load chunks
     chunks = load_chunks()
     
@@ -112,11 +102,5 @@ if __name__ == "__main__":
     if vector_db:
         # Save connection info
         save_connection_info()
-        
-        print("\n" + "="*70)
-        print("✅ CHECKPOINT 3 COMPLETE")
-        print("="*70)
-        print("\nYour PDF knowledge base is ready!")
-        print("Run step4_search.py to start searching")
     else:
-        print("\n❌ Failed to create index. Please check errors above.")
+        print("\nFaileed")
