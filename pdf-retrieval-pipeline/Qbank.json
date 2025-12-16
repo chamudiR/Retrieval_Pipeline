@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Under what conditions can a licensed bank grant accommodation to related parties using Letters of Credit (LCs) on behalf of Ministries or State-Owned Enterprises, and what additional reporting obligations apply?",
+    "retrieved_chunks": [
+      {
+        "content": "| 2. Approved Securities in respect of | | 2.1(a)(iv) In the case of licensed banks facilitating the opening of granted by such licensed banks with a letter of undertaking issued by the General Treasury to the respective licensed statements of GOSL. |\n|----------------------------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| granted to Related Parties | | Letters of Credit (LCs) on behalf of the Ministries and Departments of the Government of Sri Lanka (GOSL) and the State Owned Enterprises, accommodation may be |\n| Accommodation | | |",
+        "source_file": "Banking_Act_Determination_No_1_of_2025.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "What is the annual licence fee payable for a licensed commercial bank with total assets between Rs. 2,000 billion and Rs. 3,000 billion for the year 2026, and by when must it be paid?",
+    "retrieved_chunks": [
+      {
+        "content": "## Annual licence fee for the year 2026\n\n| Total Assets Licence Fee as at the end 2025 (Rs. Bn) | (Rs. Mn) |\n|--------------------------------------------------------|------------|\n| Above 5,000 | 56.5 |\n| Above4,000 to5,000 | 53 |\n| Above3,000 to 4,000 | 49.5 |\n| Above2,000 to3,000 | 46 |\n| Above 1,000 to 2,000 | 43 |\n| Above 500 to 1,000 | 34.5 |\n| Above200 to500 | 30.5 |\n| Above125 to200 | 22.5 |\n| Above75 to125 | 15.5 |\n| 25 to 75 | 8 |\n| Less than 25 | 4 |\n\n<!-- image -->\n\n70\n\nDr. P Nandalal Weerasinghe\n\nChairmanoftheGoverningBoardand GovernoroftheCentralBankofSriLanka",
+        "source_file": "Banking_Act_Determination_No_2_of_2025.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "List any four categories that are considered 'related parties' of a licensed bank under the Banking Act Determination No. 04 of 2024.",
+    "retrieved_chunks": [
+      {
+        "content": "1. Related Parties 1.1 The 'related parties' of licensed banks for the purpose of this Determination, are as follows:\n2. (a) a director of a licensed bank;\n3. (b) close relations of such director;\n4. (c) a concern in which a director of a licensed bank has a substantial interest, being an interest acquired either before or after the appointment as a director of such licensed bank;\n5. (d) a concern in which a close relation of a director of a licensed bank has a substantial interest;\n6. (e) a chief executive officer or an officer performing executive functions of a licensed bank in respect of any accommodation granted other than accommodation granted to such officer under a scheme applicable to the employees of such licensed bank;\n7. (f) a shareholder of a licensed bank having material interest, whether individual or a concern;\n8. (g) a subsidiary or an associate company of the licensed bank;\n\n01 October 2024",
+        "source_file": "Banking_Act_Determination_No_4_of_2024.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "What is the maximum percentage of accommodation a licensed bank may grant against quoted shares of public companies?",
+    "retrieved_chunks": [
+      {
+        "content": "- (j) Unsubordinated Corporate Debentures of a third-party concern having an issuer rating between AAA and BBBissued by an acceptable credit rating agency provided that the accommodation granted would not exceed 50 per cent of the market value of such debentures;\n- (k) Life Insurance Policies issued in Sri Lanka and assigned to the lending bank provided that the accommodation granted would not exceed 75 per cent of the surrender value of such policy;\n- (l) Mortgage Stock in-Trade provided that the accommodation granted would not exceed 30 per cent of the market value of such stock-in-trade;",
+        "source_file": "Banking_Act_Determination_No_4_of_2024.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "According to the 2025 Addendum on Corporate Governance, which directors are required to abstain from voting when appointing independent directors, and why?",
+    "retrieved_chunks": [
+      {
+        "content": "1. Direction 2.1 c) is hereby inserted immediately after Direction 2.1 b) of Schedule I of Banking Act Directions No. 05 of 2024 on Corporate Governance for Licensed Banks as follows:\n2. \"c) The directors who represent shareholders of a licensed bank that have acquired share capital carrying voting rights of such bank in contravention of Section 12(1 C) of the Banking Act, No. 30 of 1988 (as amended), the Directions issued or any terms or conditions in the approval granted by the Central Bank of Sri Lanka thereunder, shall abstain from participation and voting in appointing independent directors of such licensed bank.\"\n3. 2. This Direction will be implemented with immediate effect.\n\n<!-- image -->\n\nM\n\nDr. PNandalal Weerasinghe Chairmanof theGoverningBoard and the GovernoroftheCentral BankofSriLanka",
+        "source_file": "Banking_Act_Directions_No_1_of_2025.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "What are the minimum capital surcharge requirements (HLA as a percentage of CET1) for Domestic Systemically Important Banks (D-SIBs) in Buckets 1, 2, and 3?",
+    "retrieved_chunks": [
+      {
+        "content": "Table 1: Minimum Capital Surcharge on D-SIBs\n\n| Bucket | HLA Requirement (Common Equity Tier 1 (CET 1) as a % of Risk-Weighted Assets) |\n|----------|---------------------------------------------------------------------------------|\n| 3 | 2 |\n| 2 | 1.5 |\n| 1 | 1 |\n\n<!-- image -->",
+        "source_file": "Banking_Act_Directions_No_2_of_2025.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "What are the Timelinesfor Reporting IT and Cybersecurity Incidents by licensed banks to the Central Bank of Sri Lanka as per the BSD Circular No. 2 of 2025?",
+    "retrieved_chunks": [
+        { 
+        "content": "## Timelinesfor Reporting IT and Cybersecurity Incidents\n\n| Type of Report | Timeline for Submission to the Central Bank of Sri Lanka |\n|----------------|----------------------------------------------------------|\n| Immediate Report | Within 2 hours of occurrence or detection of the IT or Cybersecurity Incident |\n| Detailed Report | Within 72 hours of occurrence or detection of the IT or Cybersecurity Incident |\n| Quarterly Report | Within 15 days from the end of each quarter |\n\n<!-- image -->\n\nDr. P Nandalal Weerasinghe Chairman of the Governing Board and Governor of the Central Bank of Sri Lanka",
+        "source_file": "bsd_circular_no_2_of_2025_e.pdf"
+        }
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "By what date must licensed banks submit their Recovery Plans for 2025 to the Central Bank?",
+    "retrieved_chunks": [
+        {
+        "content": "3.2 Licensed banks shall provide a certification annually by BOD or RO/HO as applicable, within one month of the expiration of each calendaryear,toDBS andDDIRthat thelatestRCPremainsvalid and unchanged unless there is a material change in circumstances.\n\n3.3 Licensed banks shall submit their Recovery Plans to the Central Bank by 31 March 2025.\n\n<!-- image -->\n\nDr. P Nandalal Weerasinghe ChairmanoftheGoverningBoardand Governorof theCentralBankofSriLanka",
+        "source_file": "Banking_special_provisions_Act_Directions_No_1_of_2025.pdf"
+        }
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which previous Banking Act Directions were revoked when the new Loan-to-Value Ratios for credit facilities granted in respect of motor vehicles came into effect in 2025?",
+    "retrieved_chunks": [
+      {
+        "content": "17 July 2025\n\n<!-- image -->\n\n## CENTRALBANKOFSRILANKA BANKING ACT DIRECTIONS\n\nNo.03 of2025\n\n## LOANTOVALUERATIOSFORCREDITFACILITIESGRANTEDINRESPECT OFMOTORVEHICLES\n\nIssued under Sections 46(1) and 76 J(1) of the Banking Act, No. 30 of 1988, as amended. The following Directions issued under Banking Act are hereby revoked with effect from\n\n18.07.2025:\n\n- i. Banking Act Directions No. 01 of 2018 on Loan to Value Ratios for Credit Facilities Granted in Respect of Motor Vehicles.\n- ii. Banking Act Directions No. 05 of 2018 on Amendments to Directions on Loan to Value Ratios for Credit Facilities Granted in Respect of Motor Vehicles.\n- ii. Banking Act Directions No. 04 of 2020 on Loan to Value Ratios for Credit Facilities Granted in Respect of Motor Vehicles.\n\n<!-- image -->\n\nDr. P Nandalal Weerasinghe ChairpersonoftheGoverningBoardand Governor of theCentralBank ofSri Lanka",
+        "source_file": "Banking_Act_Directions_No_3_of_2025.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "What actions may the Central Bank impose if a Domestic Systemically Important Bank (D-SIB) fails to meet the minimum capital surcharge requirement within the specified timeframe?",
+    "retrieved_chunks": [
+      {
+        "content": "17 April 2025\n\n4. Consequences of Breaching the Capital Surcharge on D-SIBs\n\n<!-- image -->",
+        "source_file": "Banking_Act_Directions_No_2_of_2025.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "What annual certification is required regarding Recovery Plans, who must provide it, and within what timeframe?",
+    "retrieved_chunks": [
+      {
+        "content": "## CENTRALBANKOFSRILANKA BANKING (SPECIAL PROVISIONS) ACT DIRECTIONS No.01 of2025\n\n- 3.2 Licensed banks shall provide a certification annually by BOD or RO/HO as applicable, within one month of the expiration of each calendaryear,toDBS andDDIRthat thelatestRCPremainsvalid and unchanged unless there is a material change in circumstances.\n- 3.3 In the event there is a significant change to RCP, licensed banks shall submit an updated RCP approved by BOD or RO/HO, as applicable, to DBS and DDIR, highlighting the significant changes made to thelatest RCPin comparison to thepreviously submitted RCP.\n- 3.4 Licensed banks shall carry out a comprehensive review of RCP in line with BSPA, in every three years and submit the updated RCP toDBSandDDIRwith theapprovalofBODorRO/HOas applicable, within one month from the expiration of the respective calendar year,highlighting the material changes made to the latest RCP in comparison to the previously submitted RCP.\n\n<!-- image -->\n\n3",
+        "source_file": "Banking_special_provisions_Act_Directions_No_1_of_2025.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "What types of banking services and operating modes are included under the definition of a Mobile Banking Unit (MBU)?",
+    "retrieved_chunks": [
+      {
+        "content": "## Mobile Banking Units 2.\n\nIn terms of Section 1 3, A.( I ) of the Banking Act, No.30 of I 988, as amended, the Deputy Governor may. on guidelines issued by the Central Bank of Sri Lanka for such purpose, grant approval for the establishment of MBUs, subject to such terms and conditions as he may determine, from time to time.\n\nAn MBU includes the following:\n\n- a) Banking services carried out in vehicles in different locations;\n- b) Barefoot banking, i.e., bank officers visiting customers outside the bank premises and transacting business with them;\n- c) Banking services carried out by a unit of LCBs on a few days of the week (not on all working days) in a permanent place with staffattached to a branch of LCB, who visit the unit to transact business; and\n- d) Banking services carried out on an ad-hoc basis at temporary outlets operated at public places such as temples, schools, carnivals, exhibitions, confeiiences, etc.",
+        "source_file": "bsd_circular_no_3_of_2024_e.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "What criteria must Small and Medium Enterprises (SMEs) meet to qualify for the relief measures, and what are the key conditions attached to loan rescheduling?",
+    "retrieved_chunks": [
+      {
+        "content": "## 1. Features of theReliefMeasures\n\n- 1.1 Relief measures will apply only to the credit facilities of SME borrowers of licensed banks that meet the following criteria and, in this regard, licensed banks will engage with the eligibleborrowers.\n- (a) Credit facilities of SMEs that have been classified as Stage3 on or after 01.04.2019, and,\n- (b) SMEs that commenced discussions onbusinessrevivalwith theBusinessRevival Units of the respective banks by 31.03.2025, subject to submission of all necessary documents.\n- 1.2 Reschedulement of impaired loanswith eligible SMEborrowers identifiedin paragraph 1.1 above, considering the repayment capacity of the borrower and submission of an acceptablebusinessrevivalplan,asgivenbelow.\n- (a) EnteringintoreschedulementagreementswitheligibleSMEborrowersnotlater than 15.06.2025.\n\nNo.04 of2024\n\n## 19 December2024\n\n<!-- image -->\n\n## CENTRALBANKOFSRILANKA",
+        "source_file": "bsd_circular_no_4_of_2024_e.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "What are the maximum limits applicable for accommodation granted to related parties of licensed banks, and how are these limits determined?",
+    "retrieved_chunks": [
+      {
+        "content": "2. Approved limits in respect of accommodation granted to Related Parties\n2. 1.1 The following categories of persons shall be considered as 'related parties' of licensed banks for the purpose of this Order:\n3. (a) a director of a licensed bank;\n4. (b) close relations of such director;\n5. (c) a concern in which a director of a licensed bank has a substantial interest, being an interest acquired either before or after the appointment as a director of such licensed bank;\n6. (d) a concern in which a close relation of a director of a licensed bank has a substantial interest;\n7. (e) a chief executive officer or an officer performing executive functions of a licensed bank in respect of any accommodation granted other than an accommodation granted to such officer under a scheme applicable to the employees of such bank;\n8. (f) a shareholder of a licensed bank having material interest, whether individual or a concern;\n9. (g) a subsidiary or an associate company of the licensed bank;",
+        "source_file": "bsd_gazette_20241003_2404_33_e.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Within what timeframes must licensed banks publish quarterly financial information and annual audited financial statements?",
+    "retrieved_chunks": [
+      {
+        "content": "- 6.2 Licensed banks shall publish annual audited financial statements within three months from the end of the financial year. Accordingly, publishing the financial statements for the fourth quarter is not required.\n7. Effective Date/Period 7.1 Licensed banks shall publish quarterly and annual financial information in the press and website in the formats specified in this Circular commencing quarter/financial year ending 31.12.2024.\n8. Revocations 8.1 Circular No. 02 of 2019 dated 18.01.2019 on Publication of Annual and Quarterly Financial Statements and Other Disclosures by",
+        "source_file": "bsd_circular_no_5_of_2024_e.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "What decision did the Monetary Policy Board take regarding the Overnight Policy Rate (OPR) in March 2025, and what was the main justification given for this decision?",
+    "retrieved_chunks": [
+      {
+        "content": "## The Central Bank of Sri Lanka keeps the Overnight Policy Rate (OPR) unchanged\n\nThe Monetary Policy Board decided to keep the Overnight Policy Rate (OPR) at 8.00% at its meeting held yesterday. The Board arrived at this decision after carefully considering the developments both domestically and globally. The Board remains confident that the prevailing monetary policy stance will ensure that inflation will move towards the target of 5% while supporting the growth of the domestic economy.\n\nInflation remains negative at present mainly due to repeated reductions in electricity tariffs and fuel prices. Deflationary conditions are expected to gradually ease from March 2025, with inflation projected to turn positive by mid-2025. Projections based on the currently available data suggest that inflation would reach the targeted levels by year-end.",
+        "source_file": "press_20250326_Monetary_Policy_Review_No_2_2025_e_Lw7a2.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "According to the May 2025 Monetary Policy Review, when is inflation expected to turn positive, and how are inflation expectations described?",
+    "retrieved_chunks": [
+      {
+        "content": "Deflationary conditions have begun to ease since March 2025, as predicted. The latest projections show signs of a more gradual pickup in inflation in the near term than previously anticipated. Accordingly, inflation is expected to turn positive in early third quarter of 2025 and gradually align with the target thereafter. Core inflation is also expected to increase gradually in the coming months from current low levels. Inflation expectations are also aligning with the inflation target.\n\nRecent leading economic indicators reflect sustained progress in domestic economic activity. However, global uncertainties, which could have implications on Sri Lanka, have escalated from the time of the previous monetary policy review.",
+        "source_file": "press_20250522_Monetary_Policy_Review_No_3_2025_e_Mw8b9.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "What was the reported GDP growth rate for Q1-2025, and how did private sector credit perform according to the July 2025 review?",
+    "retrieved_chunks": [
+      {
+        "content": "The economy recorded a firm growth of 4.8% in Q1-2025. Leading economic indicators suggest this growth momentum will continue in the near term. Monetary conditions continued to ease, supporting the rebound in domestic economic activity. Most market interest rates have declined further in response to the recent policy rate reduction. The expansion of credit to the private sector has remained robust and broad-based so far in 2025. This private sector credit expansion is expected to continue.\n\nThe external sector continued to be resilient amidst a widening trade deficit. Inflows from tourism earnings and workers' remittances improved further. Gross official reserves were maintained at healthy levels amidst debt service payments. Reserve buildup efforts continue with regular net foreign exchange purchases by the Central Bank. The fifth tranche of the IMF-EFF was received in early July 2025.",
+        "source_file": "press_20250723_Monetary_Policy_Review_No_4_2025_e_Cw6e5.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "When did headline inflation turn positive after the deflationary period, and how long had deflation lasted prior to this change?",
+    "retrieved_chunks": [
+      {
+        "content": "Headline inflation based on the Colombo Consumer Price Index (CCPI) turned positive in August 2025, ending eleven months of deflation.",
+        "source_file": "press_20250924_Monetary_Policy_Review_No_5_2025_e_Dx7f6.pdf"
+      }
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "How did developments in foreign reserves and external inflows influence exchange rate pressures in November 2025?",
+    "retrieved_chunks": [
+      {
+        "content": "Leading economic indicators suggest a continuation of the growth momentum. Credit to the private sector has recorded a notable and broad-based expansion thus far in 2025, supported by the low-interestrate environment. This also reflects a recovery in economic activity as well as the realisation of pentup demand for vehicle imports. This credit momentum is likely to continue in the period ahead.\n\nImports have risen in recent months, contributing to a widening trade deficit. However, strong inflows from tourism and workers' remittances have cushioned the impact on the external current account. Gross Official Reserves were maintained above USD 6 billion thus far in 2025, 1 supported by net foreign exchange purchases by the Central Bank. Expected additional inflows in December 2025 include receipts from the multilateral organisations. The recent depreciation pressure on the rupee has subsided with the improvement in foreign exchange liquidity.",
+        "source_file": "press_20251126_Monetary_Policy_Review_No_6_2025_e_Ey8g7.pdf"
+      }
+    ]
+  }
+]
