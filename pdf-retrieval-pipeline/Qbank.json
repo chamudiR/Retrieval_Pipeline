@@ -41,11 +41,11 @@
   },
   {
     "question_id": 5,
-    "question": "According to the 2025 Addendum on Corporate Governance, which directors are required to abstain from voting when appointing independent directors, and why?",
+    "question": "During the COVID-19 moratorium period, how is interest on deferred loan instalments treated, and what additional interest are banks allowed to charge on EMI loans?",
     "retrieved_chunks": [
       {
-        "content": "1. Direction 2.1 c) is hereby inserted immediately after Direction 2.1 b) of Schedule I of Banking Act Directions No. 05 of 2024 on Corporate Governance for Licensed Banks as follows:\n2. \"c) The directors who represent shareholders of a licensed bank that have acquired share capital carrying voting rights of such bank in contravention of Section 12(1 C) of the Banking Act, No. 30 of 1988 (as amended), the Directions issued or any terms or conditions in the approval granted by the Central Bank of Sri Lanka thereunder, shall abstain from participation and voting in appointing independent directors of such licensed bank.\"\n3. 2. This Direction will be implemented with immediate effect.\n\n<!-- image -->\n\nM\n\nDr. PNandalal Weerasinghe Chairmanof theGoverningBoard and the GovernoroftheCentral BankofSriLanka",
-        "source_file": "Banking_Act_Directions_No_1_of_2025.pdf"
+        "content": "Payment of installments (interest + capital) is not required until the end of the moratorium period. Once the moratorium period ends, customers will have to start making payments as agreed before the concessions were offered. However, licensed banks have raised concerns on interest cost relating to deposit/borrowing liabilities during the corresponding debt moratorium period and have made representations to higher authorities in this regard. Based on the outcome of such representations and subsequent discussions with CBSL, banks are permitted to charge additional interest on the deferred installments of term loans as follows",
+        "source_file": "bsd_frequently_asked_questions_no_3_of_2020_e1.pdf"
       }
     ]
   },
@@ -74,7 +74,7 @@
     "question": "By what date must licensed banks submit their Recovery Plans for 2025 to the Central Bank?",
     "retrieved_chunks": [
         {
-        "content": "3.2 Licensed banks shall provide a certification annually by BOD or RO/HO as applicable, within one month of the expiration of each calendaryear,toDBS andDDIRthat thelatestRCPremainsvalid and unchanged unless there is a material change in circumstances.\n\n3.3 Licensed banks shall submit their Recovery Plans to the Central Bank by 31 March 2025.\n\n<!-- image -->\n\nDr. P Nandalal Weerasinghe ChairmanoftheGoverningBoardand Governorof theCentralBankofSriLanka",
+        "content": "Accordingly, in terms of Sections 8(1) and 76D (6) of the Banking Act No. 30 of 1988, every licensed commercial bank and licensed specialised bank shall pay the licence fee in respect of the calendar year 2021 to the Central Bank of Sri Lanka on or before 31 January 2021, based on the total assets of such bank as at the end of 2020, as set out in the Table below.",
         "source_file": "Banking_special_provisions_Act_Directions_No_1_of_2025.pdf"
         }
     ]
@@ -111,11 +111,11 @@
   },
   {
     "question_id": 12,
-    "question": "What types of banking services and operating modes are included under the definition of a Mobile Banking Unit (MBU)?",
+    "question": "What is the maximum interest rate that licensed commercial banks and the National Savings Bank are allowed to offer or pay on foreign currency (FCY) deposits?",
     "retrieved_chunks": [
       {
-        "content": "## Mobile Banking Units 2.\n\nIn terms of Section 1 3, A.( I ) of the Banking Act, No.30 of I 988, as amended, the Deputy Governor may. on guidelines issued by the Central Bank of Sri Lanka for such purpose, grant approval for the establishment of MBUs, subject to such terms and conditions as he may determine, from time to time.\n\nAn MBU includes the following:\n\n- a) Banking services carried out in vehicles in different locations;\n- b) Barefoot banking, i.e., bank officers visiting customers outside the bank premises and transacting business with them;\n- c) Banking services carried out by a unit of LCBs on a few days of the week (not on all working days) in a permanent place with staffattached to a branch of LCB, who visit the unit to transact business; and\n- d) Banking services carried out on an ad-hoc basis at temporary outlets operated at public places such as temples, schools, carnivals, exhibitions, confeiiences, etc.",
-        "source_file": "bsd_circular_no_3_of_2024_e.pdf"
+        "content": "he maximum interest rates that may be offered or paid by a licensed commercial bank and the National Savings Bank on all foreign currency (FCY) deposits shall not exceed an Annual Effective Rate (AER) of up to 5 per cent",
+        "source_file": "bsd_act_order_2_of_2021_e.pdf"
       }
     ]
   },
@@ -151,11 +151,11 @@
   },
   {
     "question_id": 16,
-    "question": "What decision did the Monetary Policy Board take regarding the Overnight Policy Rate (OPR) in March 2025, and what was the main justification given for this decision?",
+    "question": "What change was made to the maximum interest rate limits on foreign currency deposits of licensed commercial banks and the National Savings Bank in March 2022?",
     "retrieved_chunks": [
       {
-        "content": "## The Central Bank of Sri Lanka keeps the Overnight Policy Rate (OPR) unchanged\n\nThe Monetary Policy Board decided to keep the Overnight Policy Rate (OPR) at 8.00% at its meeting held yesterday. The Board arrived at this decision after carefully considering the developments both domestically and globally. The Board remains confident that the prevailing monetary policy stance will ensure that inflation will move towards the target of 5% while supporting the growth of the domestic economy.\n\nInflation remains negative at present mainly due to repeated reductions in electricity tariffs and fuel prices. Deflationary conditions are expected to gradually ease from March 2025, with inflation projected to turn positive by mid-2025. Projections based on the currently available data suggest that inflation would reach the targeted levels by year-end.",
-        "source_file": "press_20250326_Monetary_Policy_Review_No_2_2025_e_Lw7a2.pdf"
+        "content": "llMarch2022\n\n<!-- image -->\n\n## MONETARY BOARI)\n\n## CENTRAL BANK OF SRI LANKA MONETARY LAW ACT ORDER\n\nNo.02 of 2022\n\n## AMENDMENT TO THE MAXIMUM INTEREST RATES ON FOREIGN CURRENCY DEPOSITS OF LICENSED COMMERCIAL BANKS AND THE NATIONAL SAVINGS BANK\n\nIssued under Section 10 a (1)(a) of the Monetary Law Act, No. 58 of l94 i,as amended. Considering the recent monetary policy tightening measures, the expected macroeconomic developments and the prevailing interest rates on foreign culrency deposits of licensed banks, the Monetary Board hereby issues an amendment to the Monetary Law Act Order No. 03 of 2021 on Maximum Interest Rate on Foreign Currency Deposits of Licensed Commercial Banks and the National Savings Bank, removing the existing maximum interest rate limits imposed on foreign cuffency deposits of licensed commercial banks and the National Savings Bank.\n\nAccordingly, Orders 2 and 3 of the cited Order are deleted.\n\nA;u\n\n^sJ Nivard Ajith Leslie Cabraal Chairman of the Monetary Board and Governor of the Central Bank of Sri Lanka\n\ncJ&lt;-\n\n<!-- image -->",
+        "source_file": "bsd_act_order_2_of_2022_e.pdf"
       }
     ]
   },
@@ -164,7 +164,7 @@
     "question": "According to the May 2025 Monetary Policy Review, when is inflation expected to turn positive, and how are inflation expectations described?",
     "retrieved_chunks": [
       {
-        "content": "Deflationary conditions have begun to ease since March 2025, as predicted. The latest projections show signs of a more gradual pickup in inflation in the near term than previously anticipated. Accordingly, inflation is expected to turn positive in early third quarter of 2025 and gradually align with the target thereafter. Core inflation is also expected to increase gradually in the coming months from current low levels. Inflation expectations are also aligning with the inflation target.\n\nRecent leading economic indicators reflect sustained progress in domestic economic activity. However, global uncertainties, which could have implications on Sri Lanka, have escalated from the time of the previous monetary policy review.",
+        "content": "## Annexure 01:\n\nHeadline Inflation Projections* (Quarterly, CCPI, Y-o-Y, %)\n\nBased on the Projections during the May 2025 Monetary Policy Round\n\n<!-- image -->\n\n## Note: A forecast is neither a promise nor a commitment.\n\nThe projections reflect the available data, assumptions, and judgements made at the forecast round in May 2025. They are conditional on the forecasts of global energy and food prices, the expected growth path of Sri Lanka's major trading partners, the anticipated domestic fiscal path in line with the IMF-EFF programme, and global financial conditions implied by the Fed Funds rate. Further, the projections are conditional on the modelconsistent interest rate path and the resulting macroeconomic responses. Any notable changes in these assumptions could lead to the realised inflation path deviating from the projected path.\n\nThere are upside risks to the realisation of inflation projections stemming from factors such as the possible adverse weather conditions affecting agricultural production, and the possibility of higher-than-anticipated demand pressures amidst strong credit growth. Meanwhile, downside risks to the realisation of inflation projections include a possible persistent slowdown in global demand leading to a more-than-anticipated reduction in global energy prices.",
         "source_file": "press_20250522_Monetary_Policy_Review_No_3_2025_e_Mw8b9.pdf"
       }
     ]
@@ -184,18 +184,18 @@
     "question": "When did headline inflation turn positive after the deflationary period, and how long had deflation lasted prior to this change?",
     "retrieved_chunks": [
       {
-        "content": "Headline inflation based on the Colombo Consumer Price Index (CCPI) turned positive in August 2025, ending eleven months of deflation.",
+        "content": "Headline inflation based on the Colombo Consumer Price Index (CCPI) turned positive in August 2025, ending eleven months of deflation. Inflation is projected to gradually increase towards the target of 5% by mid-2026. Reflecting strengthening domestic demand, core inflation is also expected to pickup, and stabilise thereafter around the headline inflation target. Medium term inflation expectations remain anchored around the inflation target.",
         "source_file": "press_20250924_Monetary_Policy_Review_No_5_2025_e_Dx7f6.pdf"
       }
     ]
   },
   {
     "question_id": 20,
-    "question": "How did developments in foreign reserves and external inflows influence exchange rate pressures in November 2025?",
+    "question": "What concessions are licensed banks required to extend for lease facilities obtained by businesses and individuals in the passenger transportation sector affected by COVID-19?",
     "retrieved_chunks": [
       {
-        "content": "Leading economic indicators suggest a continuation of the growth momentum. Credit to the private sector has recorded a notable and broad-based expansion thus far in 2025, supported by the low-interestrate environment. This also reflects a recovery in economic activity as well as the realisation of pentup demand for vehicle imports. This credit momentum is likely to continue in the period ahead.\n\nImports have risen in recent months, contributing to a widening trade deficit. However, strong inflows from tourism and workers' remittances have cushioned the impact on the external current account. Gross Official Reserves were maintained above USD 6 billion thus far in 2025, 1 supported by net foreign exchange purchases by the Central Bank. Expected additional inflows in December 2025 include receipts from the multilateral organisations. The recent depreciation pressure on the rupee has subsided with the improvement in foreign exchange liquidity.",
-        "source_file": "press_20251126_Monetary_Policy_Review_No_6_2025_e_Ey8g7.pdf"
+        "content":"05 October2021\n\n<!-- image -->\n\n## MONETARYBOARD CENTRALBANKOFSRILANKA\n\nCIRCULAR\n\nNo.12 of2021\n\n## CONCESSIONSFORLEASEFACILITIESOBTAINEDBY BUSINESSESANDINDIVIDUALSINPASSENGERTRANSPORTATIONSECTOR\n\nThe Central Bank of Sri Lanka (CBSL), with a view to meeting the challenges faced by businesses and individuals providing public and private passenger transportation service including tourism sector, amidst COVID-19 pandemic, requests licensed commercial banks and licensed specialised banks,(hereinafter referred to as licensed banks) to extend the concessions granted under Circular No. 03 of 2021 dated 10 March 2021 on concessions for lease facilities obtained by businesses and individuals in passenger transportation sector as follows:\n\n- (i) accommodate the lease facilities obtained by COVID-19 affected businesses and individuals providing passenger transportation services to tourism sector, under Circular No. 10 of2021 dated 13 September 2021, and\n- (ii) accommodate the lease facilities obtained by other COVID-19 affected businesses and individuals engaged in passenger transportation services under Circular No. 08 of 2021 dated 01 September 2021.\n\nLicensed banks shall make necessary arrangements to implement (i) and (i) above, expeditiously.\n\n<!-- image -->\n\nNivard Ajith Leslie Cabraal Chairmanof theMonetaryBoard and Governorof theCentralBankofSriLanka",
+        "source_file": "bsd_circular_no_12_of_2021_e.pdf"
       }
     ]
   }
