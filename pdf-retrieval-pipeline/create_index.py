@@ -30,7 +30,7 @@ def create_vector_store(chunks):
     print("(This may take 1-2 minutes on first run)")
     
     embeddings = HuggingFaceEmbeddings(
-        model_name="BAAI/bge-base-en-v1.5",  # Much better results
+        model_name="BAAI/bge-large-en-v1.5",  # Changed from base
         model_kwargs={'device': 'cpu'}
     )
     
