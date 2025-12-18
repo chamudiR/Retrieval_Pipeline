@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+langchain-huggingface
+langchain-community
+pymilvus
+rank-bm25
