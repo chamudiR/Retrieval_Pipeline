@@ -19,8 +19,13 @@ def chunk_documents(documents):
     
     # Markdown-aware text splitter
     text_splitter = RecursiveCharacterTextSplitter(
+<<<<<<< Updated upstream
         chunk_size=1000,       # Adjust based on your needs
         chunk_overlap=200,      # Overlap to preserve context
+=======
+        chunk_size=1500,       # Adjust based on your needs
+        chunk_overlap=400,      # Overlap to preserve context
+>>>>>>> Stashed changes
         separators=[
             "\n## ",    # Split on H2 headers
             "\n### ",   # Split on H3 headers
