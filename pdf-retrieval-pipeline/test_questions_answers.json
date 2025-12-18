@@ -1,0 +1,285 @@
+[
+  {
+    "question_id": 1,
+    "question": "What is the minimum capital requirement for licensed commercial banks as of January 1, 2024?",
+    "answer": "Rs. 5 billion",
+    "source_file": "Banking_Act_Directions_No_1_of_2023.pdf",
+    "chunk_content": "The minimum capital requirement for licensed commercial banks is Rs. 5 billion as of January 1, 2024. Banks must maintain this level at all times."
+  },
+  {
+    "question_id": 2,
+    "question": "What is the maximum interest rate that licensed commercial banks can offer on foreign currency deposits?",
+    "answer": "Up to 5% Annual Effective Rate (AER)",
+    "source_file": "bsd_act_order_2_of_2021_e.pdf",
+    "chunk_content": "Licensed commercial banks and the National Savings Bank are allowed to offer or pay on foreign currency (FCY) deposits up to 5 per cent Annual Effective Rate (AER).",
+    "note": "This limit was removed in March 2022 per bsd_act_order_2_of_2022_e.pdf"
+  },
+  {
+    "question_id": 3,
+    "question": "Which organization is responsible for supervising licensed banks in Sri Lanka?",
+    "answer": "Central Bank of Sri Lanka (CBSL) / Monetary Board",
+    "source_file": "Multiple regulatory documents",
+    "chunk_content": "The Central Bank of Sri Lanka hereby issues the following Directions to licensed commercial banks..."
+  },
+  {
+    "question_id": 4,
+    "question": "What is the purpose of the Higher Loss Absorbency (HLA) capital surcharge for D-SIBs?",
+    "answer": "To ensure Domestic Systemically Important Banks maintain additional capital buffers to absorb losses and reduce systemic risk",
+    "source_file": "Banking_Act_Directions_No_2_of_2025.pdf",
+    "chunk_content": "Explains HLA capital surcharge requirements for D-SIBs to maintain financial stability"
+  },
+  {
+    "question_id": 5,
+    "question": "What does the acronym \"D-SIB\" stand for in banking regulations?",
+    "answer": "Domestic Systemically Important Banks",
+    "source_file": "Banking_Act_Directions_No_2_of_2025.pdf",
+    "chunk_content": "DOMESTIC SYSTEMICALLY IMPORTANT BANKS"
+  },
+  {
+    "question_id": 6,
+    "question": "What is the annual license fee for a bank with assets between Rs. 2,000-3,000 billion for 2026?",
+    "answer": "Rs. 46 million",
+    "source_file": "Banking_Act_Determination_No_2_of_2025.pdf",
+    "chunk_content": "Rs. 46 million (for total assets above 2,000 to 3,000 billion as at the end of 2025)"
+  },
+  {
+    "question_id": 7,
+    "question": "What are the capital surcharge requirements for D-SIBs in Bucket 1, 2, and 3?",
+    "answer": {
+      "bucket_1": "1% of RWA",
+      "bucket_2": "1.5% of RWA",
+      "bucket_3": "2% of RWA"
+    },
+    "source_file": "Banking_Act_Directions_No_2_of_2025.pdf",
+    "chunk_content": "Bucket 1: 1%, Bucket 2: 1.5%, Bucket 3: 2% (as a percentage of Risk-Weighted Assets)"
+  },
+  {
+    "question_id": 8,
+    "question": "What is the maximum loan-to-value ratio for motor vehicle financing?",
+    "answer": "Varies by vehicle type (specific percentages in Banking Act Directions No. 3 of 2025)",
+    "source_file": "Banking_Act_Directions_No_3_of_2025.pdf",
+    "note": "This revoked previous directions No. 01/2018, 05/2018, and 04/2020"
+  },
+  {
+    "question_id": 9,
+    "question": "Within how many hours must banks report an IT/cybersecurity incident after detection?",
+    "answer": {
+      "immediate_report": "Within 2 hours",
+      "detailed_report": "Within 72 hours"
+    },
+    "source_file": "bsd_circular_no_2_of_2025_e.pdf",
+    "chunk_content": "Immediate Report: Within 2 hours of occurrence or detection; Detailed Report: Within 72 hours of occurrence or detection; Quarterly Report: Within 15 days from the end of each quarter"
+  },
+  {
+    "question_id": 10,
+    "question": "What percentage of surrender value can be advanced against life insurance policies?",
+    "answer": "75% of surrender value",
+    "source_file": "Banking_Act_Determination_No_4_of_2024.pdf",
+    "chunk_content": "Life Insurance Policies - 75% of surrender value",
+    "additional_info": {
+      "mortgage_stock_in_trade": "30% of market value",
+      "unsubordinated_corporate_debentures": "50% of market value"
+    }
+  },
+  {
+    "question_id": 11,
+    "question": "Process for granting accommodation to related parties using Letters of Credit?",
+    "answer": "Licensed banks may grant accommodation to related parties (Ministries/SOEs) with a letter of undertaking issued by the General Treasury",
+    "source_file": "Banking_Act_Determination_No_1_of_2025.pdf",
+    "chunk_content": "In the case of licensed banks facilitating the opening of Letters of Credit (LCs) on behalf of the Ministries and Departments of the Government of Sri Lanka (GOSL) and the State Owned Enterprises, accommodation may be granted by such licensed banks with a letter of undertaking issued by the General Treasury..."
+  },
+  {
+    "question_id": 12,
+    "question": "Steps for SMEs to qualify for loan rescheduling relief measures?",
+    "answer": {
+      "steps": [
+        "Credit facilities must be classified as Stage 3 on or after 01.04.2019",
+        "SMEs must commence discussions with Business Revival Units by 31.03.2025",
+        "Submit all necessary documents",
+        "Reschedulement must consider repayment capacity",
+        "Submit acceptable business revival plan",
+        "Enter agreements not later than 15.06.2025"
+      ]
+    },
+    "source_file": "bsd_circular_no_4_of_2024_e.pdf"
+  },
+  {
+    "question_id": 13,
+    "question": "How to calculate capital adequacy ratios according to Basel III?",
+    "answer": "Based on Basel III framework with minimum ratios for: Common Equity Tier 1 (CET1), Tier 1 Capital, Total Capital - all measured as percentages of Risk-Weighted Assets (RWA)",
+    "source_file": "Banking_Act_Directions_No_2_of_2025.pdf and related Basel III regulations"
+  },
+  {
+    "question_id": 14,
+    "question": "Procedure for reporting quarterly IT and cybersecurity incidents?",
+    "answer": "Within 15 days from the end of each quarter",
+    "source_file": "bsd_circular_no_2_of_2025_e.pdf",
+    "full_reporting_structure": {
+      "immediate": "2 hours",
+      "detailed": "72 hours",
+      "quarterly": "15 days after quarter end"
+    }
+  },
+  {
+    "question_id": 15,
+    "question": "Steps when customer requests loan moratorium due to financial hardship?",
+    "answer": "Banks can defer installments (interest + capital) until end of moratorium period. Banks are permitted to charge additional interest on deferred installments.",
+    "source_file": "bsd_frequently_asked_questions_no_3_of_2020_e1.pdf",
+    "context": "COVID-19 moratorium provisions"
+  },
+  {
+    "question_id": 16,
+    "question": "By what date must licensed banks submit Recovery Plans for 2025?",
+    "answer": "Within one month of the expiration of each calendar year",
+    "source_file": "Banking_special_provisions_Act_Directions_No_1_of_2025.pdf",
+    "additional_requirement": "Annual certification by BOD or RO/HO"
+  },
+  {
+    "question_id": 17,
+    "question": "Timeframe to publish annual audited financial statements?",
+    "answer": "Within three months from the end of the financial year",
+    "source_file": "bsd_circular_no_5_of_2024_e.pdf",
+    "note": "Publishing Q4 financial statements is not required"
+  },
+  {
+    "question_id": 18,
+    "question": "When did Banking Act Directions No. 3 of 2025 on LTV for motor vehicles take effect?",
+    "answer": "18.07.2025",
+    "source_file": "Banking_Act_Directions_No_3_of_2025.pdf",
+    "revoked_directions": [
+      "Banking Act Directions No. 01 of 2018",
+      "Banking Act Directions No. 05 of 2018",
+      "Banking Act Directions No. 04 of 2020"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "When did headline inflation turn positive after deflation in 2025?",
+    "answer": "August 2025 (after eleven months of deflation)",
+    "source_file": "press_20250924_Monetary_Policy_Review_No_5_2025_e_Dx7f6.pdf"
+  },
+  {
+    "question_id": 20,
+    "question": "Deadline for SMEs to enter loan rescheduling agreements under 2024 relief?",
+    "answer": "Not later than 15.06.2025",
+    "source_file": "bsd_circular_no_4_of_2024_e.pdf"
+  },
+  {
+    "question_id": 21,
+    "question": "List four categories considered \"related parties\" of a licensed bank",
+    "answer": [
+      "A director of a licensed bank",
+      "Close relations of such director",
+      "A concern in which a director has a substantial interest",
+      "A chief executive officer or officer performing executive functions",
+      "A shareholder having material interest",
+      "A subsidiary or associate company"
+    ],
+    "source_file": "Banking_Act_Determination_No_4_of_2024.pdf"
+  },
+  {
+    "question_id": 22,
+    "question": "Three types of IT/cybersecurity incident reports banks must submit?",
+    "answer": [
+      {
+        "type": "Immediate Report",
+        "timeframe": "Within 2 hours"
+      },
+      {
+        "type": "Detailed Report",
+        "timeframe": "Within 72 hours"
+      },
+      {
+        "type": "Quarterly Report",
+        "timeframe": "Within 15 days from quarter end"
+      }
+    ],
+    "source_file": "bsd_circular_no_2_of_2025_e.pdf"
+  },
+  {
+    "question_id": 23,
+    "question": "Banking Act Directions revoked when new LTV for motor vehicles took effect?",
+    "answer": [
+      "Banking Act Directions No. 01 of 2018",
+      "Banking Act Directions No. 05 of 2018",
+      "Banking Act Directions No. 04 of 2020"
+    ],
+    "source_file": "Banking_Act_Directions_No_3_of_2025.pdf",
+    "effective_date": "18.07.2025"
+  },
+  {
+    "question_id": 24,
+    "question": "Types of acceptable collateral for granting accommodation?",
+    "answer": [
+      {
+        "type": "Life Insurance Policies",
+        "advance_percentage": "75% of surrender value"
+      },
+      {
+        "type": "Mortgage Stock in-Trade",
+        "advance_percentage": "30% of market value"
+      },
+      {
+        "type": "Unsubordinated Corporate Debentures",
+        "advance_percentage": "50% of market value"
+      },
+      {
+        "type": "Quoted shares of public companies",
+        "advance_percentage": "Specified in regulations"
+      }
+    ],
+    "source_file": "Banking_Act_Determination_No_4_of_2024.pdf"
+  },
+  {
+    "question_id": 25,
+    "question": "Key financial ratios D-SIBs must maintain?",
+    "answer": [
+      "Common Equity Tier 1 (CET1) ratio",
+      "Tier 1 Capital ratio",
+      "Total Capital ratio",
+      "HLA capital surcharge (1-2% depending on bucket)"
+    ],
+    "source_file": "Banking_Act_Directions_No_2_of_2025.pdf"
+  },
+  {
+    "question_id": 26,
+    "question": "How does capital requirement for D-SIBs differ from regular banks?",
+    "answer": "D-SIBs must maintain additional capital surcharge (HLA) of 1%, 1.5%, or 2% of RWA depending on their bucket classification",
+    "source_file": "Banking_Act_Directions_No_2_of_2025.pdf"
+  },
+  {
+    "question_id": 27,
+    "question": "Difference between immediate and detailed report timelines for cyber incidents?",
+    "answer": {
+      "immediate_report": "Within 2 hours of occurrence or detection",
+      "detailed_report": "Within 72 hours of occurrence or detection",
+      "difference": "70 hours"
+    },
+    "source_file": "bsd_circular_no_2_of_2025_e.pdf"
+  },
+  {
+    "question_id": 28,
+    "question": "Compare LTV ratios for mortgage properties vs motor vehicles?",
+    "answer": "Specific ratios defined in separate regulations. Motor vehicles covered in Banking Act Directions No. 3 of 2025, property mortgages in other directives.",
+    "source_file": "Banking_Act_Directions_No_3_of_2025.pdf and related mortgage regulations"
+  },
+  {
+    "question_id": 29,
+    "question": "Differences between Stage 1, 2, and 3 credit facilities?",
+    "answer": {
+      "stage_1": "Performing loans",
+      "stage_2": "Underperforming",
+      "stage_3": "Non-performing (facilities classified as Stage 3 on or after 01.04.2019)"
+    },
+    "source_file": "bsd_circular_no_4_of_2024_e.pdf and related SLFRS 9 guidelines"
+  },
+  {
+    "question_id": 30,
+    "question": "How do quarterly vs annual financial statement reporting requirements differ?",
+    "answer": {
+      "annual_audited": "Within 3 months from end of financial year",
+      "quarterly": "Required for Q1-Q3 only, Q4 publishing not required"
+    },
+    "source_file": "bsd_circular_no_5_of_2024_e.pdf"
+  }
+]
