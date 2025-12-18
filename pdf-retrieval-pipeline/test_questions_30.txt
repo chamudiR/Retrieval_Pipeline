@@ -1,0 +1,139 @@
+# Test Questions for RAG Pipeline - Banking Regulations
+# 30 questions covering various question types and difficulty levels
+
+## Question Types:
+## 1. Factual (direct answers from text)
+## 2. Numerical (specific numbers, percentages, dates)
+## 3. Procedural (steps, processes, timelines)
+## 4. Comparative (differences, similarities)
+## 5. Conditional (what-if scenarios, conditions)
+## 6. List-based (enumerations, categories)
+## 7. Definitional (what is X?)
+## 8. Temporal (when, deadlines, effective dates)
+
+---
+
+## FACTUAL QUESTIONS (Simple retrieval)
+
+1. What is the minimum capital requirement for licensed commercial banks as of January 1, 2024?
+
+2. What is the maximum interest rate that licensed commercial banks can offer on foreign currency deposits?
+
+3. Which organization is responsible for supervising licensed banks in Sri Lanka?
+
+4. What is the purpose of the Higher Loss Absorbency (HLA) capital surcharge for D-SIBs?
+
+5. What does the acronym "D-SIB" stand for in banking regulations?
+
+---
+
+## NUMERICAL QUESTIONS (Specific values, percentages, amounts)
+
+6. What is the annual license fee payable for a licensed commercial bank with total assets between Rs. 2,000 billion and Rs. 3,000 billion for the year 2026?
+
+7. What are the capital surcharge requirements as a percentage of Risk-Weighted Assets for D-SIBs in Bucket 1, Bucket 2, and Bucket 3?
+
+8. What is the maximum loan-to-value ratio for motor vehicle financing under the current regulations?
+
+9. Within how many hours must banks report an IT or cybersecurity incident to the Central Bank after detection?
+
+10. What percentage of the surrender value can be advanced against life insurance policies as collateral?
+
+---
+
+## PROCEDURAL QUESTIONS (Processes, steps, how-to)
+
+11. What is the process for a licensed bank to grant accommodation to related parties using Letters of Credit on behalf of State-Owned Enterprises?
+
+12. What steps must Small and Medium Enterprises (SMEs) follow to qualify for loan rescheduling relief measures under the business revival program?
+
+13. How should licensed banks calculate and maintain their capital adequacy ratios according to Basel III requirements?
+
+14. What is the procedure for reporting quarterly IT and cybersecurity incidents to the Central Bank?
+
+15. What are the steps a bank must take when a customer requests a moratorium on loan repayments due to financial hardship?
+
+---
+
+## TEMPORAL QUESTIONS (Dates, deadlines, timelines)
+
+16. By what date must licensed banks submit their Recovery Plans for 2025 to the Central Bank?
+
+17. Within what timeframe must licensed banks publish their annual audited financial statements after the end of the financial year?
+
+18. When did the Banking Act Directions No. 3 of 2025 on Loan-to-Value Ratios for motor vehicles come into effect?
+
+19. When did headline inflation turn positive after the deflationary period in 2025?
+
+20. What is the deadline for SMEs to enter into loan rescheduling agreements under the 2024 relief measures?
+
+---
+
+## LIST-BASED QUESTIONS (Enumerations, categories)
+
+21. List four categories that are considered 'related parties' of a licensed bank under Banking Act regulations.
+
+22. What are the three types of reports that licensed banks must submit regarding IT and cybersecurity incidents?
+
+23. Name the previous Banking Act Directions that were revoked when the new Loan-to-Value Ratios for motor vehicles came into effect in 2025.
+
+24. What types of collateral are acceptable for granting accommodation under Banking Act Determination No. 4 of 2024?
+
+25. List the key financial ratios that Domestic Systemically Important Banks (D-SIBs) must maintain.
+
+---
+
+## COMPARATIVE QUESTIONS (Differences, similarities)
+
+26. How does the capital requirement for Domestic Systemically Important Banks (D-SIBs) differ from regular licensed commercial banks?
+
+27. What is the difference between the immediate report and detailed report timelines for cybersecurity incidents?
+
+28. Compare the loan-to-value ratios for mortgage properties versus motor vehicles under current regulations.
+
+29. What are the differences between Stage 1, Stage 2, and Stage 3 credit facilities in terms of loan classification?
+
+30. How do the reporting requirements for quarterly financial statements differ from annual audited financial statements for licensed banks?
+
+---
+
+## CONDITIONAL QUESTIONS (Scenarios, what-if)
+
+BONUS: What actions may the Central Bank impose if a Domestic Systemically Important Bank fails to meet the minimum capital surcharge requirement?
+
+BONUS: Under what conditions can a licensed bank extend the moratorium period for COVID-19 affected borrowers?
+
+BONUS: What happens if a bank fails to submit its Recovery Plan within the specified deadline?
+
+---
+
+## DEFINITIONAL QUESTIONS (Concepts, terms)
+
+BONUS: What is meant by "accommodation" in the context of Banking Act regulations?
+
+BONUS: Define "close relations" of a bank director as used in related party definitions.
+
+---
+
+## COMPLEX MULTI-HOP QUESTIONS (Require reasoning across documents)
+
+BONUS: If a licensed bank has total assets of Rs. 2.5 trillion and is classified as a D-SIB in Bucket 2, what would be the total capital requirement including both the base requirement and the capital surcharge?
+
+BONUS: How would the reporting timeline differ for a minor cybersecurity incident versus a major data breach affecting customer information?
+
+---
+
+## NOTES FOR TESTING:
+- Questions 1-5: Test basic retrieval
+- Questions 6-10: Test numerical accuracy
+- Questions 11-15: Test understanding of procedures
+- Questions 16-20: Test temporal information extraction
+- Questions 21-25: Test list extraction and enumeration
+- Questions 26-30: Test comparison and reasoning
+- Bonus questions: Test edge cases and complex scenarios
+
+## EXPECTED BEHAVIOR:
+- System should retrieve 3-5 relevant chunks per question
+- Answers should cite specific documents and page numbers
+- System should handle both exact matches and paraphrased queries
+- When information is insufficient, system should state "I don't have enough information"
