@@ -1,12 +1,4 @@
-"""
-RAG Chat API - Complete Walkthrough
-====================================
-This file shows EXACTLY how:
-1. We call the retrieval pipeline
-2. We retrieve chunks from Milvus + BM25
-3. Where those chunks go
-4. How we send chunks + query to an LLM
-"""
+
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -35,6 +27,7 @@ import requests  # For Ollama (local LLM)
 
 class ChatRequest(BaseModel):
     """What the user sends to us"""
+    user_id: str                   # User identifier
     question: str                  # The user's question
     top_k: Optional[int] = 3       # How many chunks to retrieve
 
@@ -57,13 +50,7 @@ class ChatResponse(BaseModel):
 # ============================================================
 # STEP 2: THE RETRIEVER CLASS
 # ============================================================
-# This wraps your existing pipeline (Milvus + BM25)
-# 
-# HOW IT WORKS:
-#   1. Load chunks.pkl (your pre-chunked documents)
-#   2. Connect to Milvus (vector database with embeddings)
-#   3. Build BM25 index (for keyword matching)
-#   4. When you search: combine both methods for better results
+
 
 class Retriever:
     """
@@ -317,7 +304,7 @@ async def chat(request: ChatRequest):
     5. We return answer + chunks used
     """
     print("\n" + "🟢"*30)
-    print(f"NEW REQUEST: {request.question}")
+    print(f"NEW REQUEST from user {request.user_id}: {request.question}")
     print("🟢"*30)
     
     if retriever is None:
